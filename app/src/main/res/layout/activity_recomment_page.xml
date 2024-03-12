@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgound_all_2"
+    tools:context=".Room.AddRoomActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_titlebar_recommend"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="#F1EDED"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ib_recommend_back"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:background="#F1EDED"
+            android:layout_marginLeft="11sp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="110dp"
+            android:gravity="center"
+            android:text="猜你喜欢"
+            android:textColor="#0E0E0E"
+            android:textSize="20dp" />
+
+
+    </LinearLayout>
+
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/layout_titlebar_recommend">-->
+
+<!--        <GridLayout-->
+<!--            android:id="@+id/gl_recommend"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginLeft="30dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:layout_marginRight="30dp"-->
+<!--            android:layout_marginBottom="30dp"-->
+<!--            android:columnCount="2">-->
+
+<!--        </GridLayout>-->
+
+<!--    </ScrollView>-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/recommend_fake">
+
+    </LinearLayout>
+
+</LinearLayout>

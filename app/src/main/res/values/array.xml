@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clothes_type_data">
+        <item>上装</item>
+        <item>下装</item>
+        <item>连体装</item>
+        <item>套装</item>
+        <item>职业装</item>
+        <item>贴身衣物</item>
+    </string-array>
+
+    <string-array name="clothes_up_type_data">
+        <item>T恤</item>
+        <item>衬衫</item>
+        <item>卫衣/套头衫</item>
+        <item>背心</item>
+        <item>夹克/外套</item>
+        <item>西装</item>
+    </string-array>
+
+    <string-array name="clothes_down_type_data">
+        <item>牛仔裤</item>
+        <item>休闲裤</item>
+        <item>运动裤</item>
+        <item>裙子</item>
+        <item>短裤</item>
+    </string-array>
+
+    <string-array name="admin_list">
+        <item>请选择身份</item>
+        <item>普通用户</item>
+        <item>管理员</item>
+    </string-array>
+
+    <string-array name="weather_list">
+        <item>春季</item>
+        <item>夏季</item>
+        <item>秋季</item>
+        <item>冬季</item>
+    </string-array>
+
+    <string-array name="scene_list">
+        <item>休闲</item>
+        <item>运动</item>
+        <item>正装</item>
+    </string-array>
+
+</resources>

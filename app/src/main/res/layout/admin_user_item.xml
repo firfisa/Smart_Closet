@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@drawable/btn_shape10"
+    android:drawableLeft="@drawable/uesr1"
+    android:padding="3dp"
+    android:text="用户1"
+    android:textSize="40dp"
+    android:textColor="#B8911E"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

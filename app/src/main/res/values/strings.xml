@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart_Closet</string>
+    <string name="HomePageRoom">房间</string>
+    <string name="HomePageWear">穿戴</string>
+    <string name="HomePageRecommend">推荐</string>
+    <string name="HomePageSetting">设置</string>
+    <string name="CreateRoom">创建房间</string>
+    <string name="CreateWardrobe">创建衣柜</string>
+</resources>

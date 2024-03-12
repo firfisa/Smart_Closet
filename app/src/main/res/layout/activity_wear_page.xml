@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Wear.WearPageActivity"
+    android:orientation="vertical"
+    android:background="@drawable/backgound_all_2"
+    >
+
+    <LinearLayout
+        android:id="@+id/layout_titlebar_recommend"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="#F1EDED"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ib_wear_page_back"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:background="#F1EDED"
+            android:layout_marginLeft="11sp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_back" />
+
+        <LinearLayout
+            android:layout_width="285dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="8dp"
+            android:layout_gravity="center"
+            android:background="@drawable/search_round">
+
+            <EditText
+                android:id="@+id/et_wear_page_search"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:layout_marginStart="9dp"
+                android:layout_marginEnd="9dp"
+                android:hint="搜索"
+                android:textSize="14sp"
+                android:background="@color/white"
+                android:inputType="text"/>
+
+
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/btn_wear_page_recent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/recent"
+            android:padding="15dp"
+            android:layout_gravity="center"
+            android:text="最近"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35sp"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+        <Button
+            android:id="@+id/btn_wear_page_spring"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@color/blue"
+            android:padding="-5dp"
+            android:text="春季"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_wear_page_summer"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:padding="-5dp"
+            android:text="夏季"
+            android:textColor="@color/blue"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_wear_page_autumn"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:padding="-5dp"
+            android:text="秋季"
+            android:textColor="@color/blue"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_wear_page_winter"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:padding="-5dp"
+            android:text="冬季"
+            android:textColor="@color/blue"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/sv_clothes_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <GridLayout
+            android:id="@+id/gl_clothes_weather_display"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:columnCount="2">
+
+        </GridLayout>
+
+    </ScrollView>
+
+</LinearLayout>

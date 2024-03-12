@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_admin_user">
+
+    <LinearLayout
+        android:id="@+id/layout_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="#F1EDED"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true">
+        <ImageButton
+            android:id="@+id/btn_admin_user_back"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:background="#F1EDED"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_back" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="用户信息"
+            android:textColor="#0E0E0E"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_marginLeft="120dp"/>
+
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="350dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp">
+        <LinearLayout
+            android:id="@+id/admin_user_all"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/btn_shape10">
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

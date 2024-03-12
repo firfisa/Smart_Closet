@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable-v24/btn_round.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.263" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable/bg_round.xml" value="0.254" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable/btn_shape1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable/btn_shape16.xml" value="0.1935" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable/btn_shape3.xml" value="0.1935" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.263" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_add_clothes.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_add_model.xml" value="0.1731509191962377" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_add_room.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_add_wardrobe.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_admin_clothes.xml" value="0.1731509191962377" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_admin_data.xml" value="0.1731509191962377" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_admin_home.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_admin_info.xml" value="0.22488242838820008" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_admin_user.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_clothes_display_page.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_edit_password.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_enter_page.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_homepage.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_login_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_main.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_recomment_page.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_room_page.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_setting_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_user_register.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_wardrobe.xml" value="0.28125" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_wardrobe_page.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_wear_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_wear_recent.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/activity_weather_page.xml" value="0.23086789226165028" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/admin_info_item.xml" value="0.22488242838820008" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/admin_user_item.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/bg_btn.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/bg_round.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/btn_round.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/fragment_item.xml" value="0.20735356990166737" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/fragment_item_list.xml" value="0.195382642154767" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/item_clothes_detail.xml" value="0.15220179563916203" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/item_room.xml" value="0.23428815733219324" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/search_round.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/spinner_dropdown.xml" value="0.23685335613510047" />
+        <entry key="..\:/Users/Lenovo/Desktop/Smart_Closet/app/src/main/res/layout/spinner_item.xml" value="0.30141085934159895" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/drawable-v24/btn_round.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_add_clothes.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_add_wardrobe.xml" value="0.25138948268490807" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_admin_clothes.xml" value="0.22702009405728943" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_edit_password.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_enter_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_homepage.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_login_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_recomment_page.xml" value="0.22702009405728943" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_user_register.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_wear_page.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/activity_weather_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/dialog_add_clothes_by_link.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/Lenovo/Desktop/my_code/Android/Smart_Closet/app/src/main/res/layout/spinner_item.xml" value="0.18426678067550234" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16666666666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
